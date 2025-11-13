@@ -1,0 +1,9 @@
+{
+  "name": "bank-transaction-processor",
+  "version": "1.0.0",
+  "description": "Simple Bank Transaction Processor with assert tests",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
